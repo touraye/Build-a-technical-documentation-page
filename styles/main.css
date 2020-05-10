@@ -1,0 +1,6 @@
+/* Base and typo styles */
+
+*{
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
